@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+    background-color: #9f4eb4;
+}
+.header--img{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+.header--title{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
